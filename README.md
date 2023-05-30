@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Deep Learning and Prompt Engineering**
 
-- 💬 Ask me about **Python,Machine learning,Deep Learning,Data Analysis**
+- 💬 Ask me about **Python,Machine learning,Deep Learning,Data Analysis, Prompt Engineering**
 
 - 📫 How to reach me **fafridi047@gmail.com**
 
