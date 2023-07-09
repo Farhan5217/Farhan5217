@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="400" src="https://physicsgurukul.com/wp-content/uploads/2019/02/character-1.gif"
 <p align="left"> <a href="https://twitter.com/afridi205205" target="blank"><img src="https://img.shields.io/twitter/follow/afridi205205?logo=twitter&style=for-the-badge" alt="afridi205205" /></a> </p>
 
-- 🌱 I’m currently learning ** Large Learning Models (LLMs) and Prompt Engineering**
+- 🌱 I’m currently learning **Large Learning Models (LLMs) and Prompt Engineering**
 
 - 💬 Ask me about **Python, Machine learning, Deep Learning, Data Analysis, Prompt Engineering**
 
