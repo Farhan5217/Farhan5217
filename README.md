@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Generative AI, Large Language Models (LLMs) and Prompt Engineering**
 
-- 💬 Ask me about **Python, Machine learning, Deep Learning, Data Science, and Prompt Engineering**
+- 💬 Ask me about **Python, Machine learning, Computer Vision, Deep Learning, Data Science, and Prompt Engineering**
 
 - 📫 How to reach me **fafridi047@gmail.com**
 
