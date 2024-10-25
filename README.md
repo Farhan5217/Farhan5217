@@ -3,9 +3,9 @@
 <img align="right" alt="coding" width="400" src="https://physicsgurukul.com/wp-content/uploads/2019/02/character-1.gif"
 <p align="left"> <a href="https://twitter.com/afridi205205" target="blank"><img src="https://img.shields.io/twitter/follow/afridi205205?logo=twitter&style=for-the-badge" alt="afridi205205" /></a> </p>
 
-- 🌱 I’m currently learning **Generative AI, Large Language Models (LLMs) and Prompt Engineering**
+- 🌱 I’m currently learning ** LangGraph, Prompt Caching,**
 
-- 💬 Ask me about **Python, Machine learning, Computer Vision, Data Science**
+- 💬 Ask me about **Python, Machine learning, Generative AI, Prompt Engineering**
 
 - 📫 How to reach me **fafridi047@gmail.com**
 
